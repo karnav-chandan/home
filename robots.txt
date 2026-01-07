@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://karnav-chandan.github.io/home/sitemap.xml
+Sitemap Location (Best Practice for SEO)
+
+Sitemap: https://www.google.com/search?q=https://karnav-the-developer.vercel.app/sitemap.xml
